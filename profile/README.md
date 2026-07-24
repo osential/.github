@@ -9,4 +9,4 @@ Empowering every person with a piece of Osential. We believe technology can and 
 * [Osential](https://github.com/osential) - Our primary github organization.
 * [ProteneVM](https://github.com/protene) - The Protene Platform.
 * [Yentury](https://github.com/yentury) - Open source database software.
-* [NestScript](https://github/osential/NestScript) - Type safe, static typed scripting language.
+* [NestScript](https://github.com/osential/NestScript) - Type safe, static typed scripting language.
