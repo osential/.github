@@ -7,3 +7,4 @@ Empowering every person with a piece of Osential. We believe technology can and 
 ## All Osential Github Organizations
 
 * [Osential](https://github.com/osential) - Our primary github organization.
+* [ProteneVM](https://github.com/protene) - The Protene Platform.
